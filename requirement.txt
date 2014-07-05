@@ -1,0 +1,15 @@
+Flask==0.10.1
+Flask-Admin==1.0.8
+Flask-HTTPAuth==2.2.1
+Flask-SQLAlchemy==1.0
+Jinja2==2.7.3
+MarkupSafe==0.23
+SQLAlchemy==0.9.6
+WTForms==2.0.1
+Werkzeug==0.9.6
+argparse==1.2.1
+distribute==0.6.24
+docopt==0.6.2
+itsdangerous==0.24
+sandman==0.9.6
+wsgiref==0.1.2
