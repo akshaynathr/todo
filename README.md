@@ -1,4 +1,4 @@
 todo
 ====
 
-demo app
+Simple Todo app
